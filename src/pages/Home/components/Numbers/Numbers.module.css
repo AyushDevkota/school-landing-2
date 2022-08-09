@@ -1,0 +1,23 @@
+.info__text {
+  font-size: 1.7rem;
+  width: 70%;
+  margin: 0 auto;
+  line-height: 1.4;
+  margin-bottom: 2em;
+  color: #333;
+}
+.rank__item {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  color: #1f2059;
+  padding: 5rem 0;
+}
+.ranking__rank {
+  font-size: 5rem;
+  font-weight: 400;
+}
+.ranking__info {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
